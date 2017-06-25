@@ -1,0 +1,17 @@
+[
+  {
+    "origin" : "Japan",
+    "make" : "Mitsubishi",
+    "model" : "Eclipse",
+    "trim" : "GS",
+    "year" : "1995",
+    "color" : "Black",
+    "engine" : "I4",
+    "drive" : "FWD",
+    "img" : "img/Mistubishi_Eclipse.jpg",
+    "options" : {
+      "early" : ["bucket seats", "race suspension", "power antenna"],
+      "late" : ["sunroof", "power steering", "dvd player", "remote start", "keyless entry"]
+    }
+  }
+]

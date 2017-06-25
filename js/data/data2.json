@@ -1,0 +1,32 @@
+[
+  {
+    "origin" : "Germany",
+    "make" : "Volkswagon",
+    "model" : "Jetta",
+    "trim" : "Turbo",
+    "year" : "1995",
+    "color" : "Black",
+    "engine" : "I4",
+    "drive" : "FWD",
+    "img" : "img/VW_Jetta.jpg",
+    "options" : {
+      "early" : ["bucket seats", "race suspension", "power antenna"],
+      "late" : ["sunroof", "power steering", "dvd player", "remote start", "keyless entry"]
+    }
+  },
+  {
+    "origin" : "Germany",
+    "make" : "BMW",
+    "model" : "740",
+    "trim" : "I",
+    "year" : "2005",
+    "color" : "Grey",
+    "engine" : "V8",
+    "drive" : "RWD",
+    "img" : "img/BMW740i.jpg",
+    "options" : {
+      "early" : ["bucket seats", "race suspension", "power antenna"],
+      "late" : ["sunroof", "power steering", "dvd player", "remote start", "keyless entry"]
+    }
+  }
+]

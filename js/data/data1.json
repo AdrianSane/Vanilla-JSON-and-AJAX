@@ -1,0 +1,37 @@
+[
+  {
+
+    "origin" : "USA",
+    "make" : "Ford",
+    "model" : "Crown Victoria",
+    "trim" : "P71 Police Interceptor",
+    "year" : "2005",
+    "color" : "White",
+    "engine" : "V8",
+    "drive" : "RWD",
+    "img" : "img/CV-White.jpg",
+    "options" : {
+      "early" : ["bucket seats", "race suspension", "power antenna"],
+      "late" : ["sunroof", "power steering", "dvd player", "remote start", "keyless entry"]
+    }
+
+  },
+  
+  {
+
+    "origin" : "USA",
+    "make" : "Ford",
+    "model" : "Crown Victoria",
+    "trim" : "P71 Police Interceptor",
+    "year" : "2010",
+    "color" : "Black",
+    "engine" : "V8",
+    "drive" : "RWD",
+    "img" : "img/CV-Black.jpg",
+    "options" : {
+      "early" : ["bucket seats", "race suspension", "power antenna"],
+      "late" : ["sunroof", "power steering", "dvd player", "remote start", "keyless entry"]
+    }
+
+  }
+]
